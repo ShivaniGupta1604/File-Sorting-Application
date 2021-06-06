@@ -1,7 +1,7 @@
 # File-Sorting-Application
 
 This is a python based application built with help of varoius python libraries.
-This app sorts various types of files such as audios , videos, documents etc. present inside a folder and make seperate folders for each type of file.
+This app sorts various type of files such as audios , videos, documents etc. present inside a folder and make seperate folders for each type of file.
 
 
 
