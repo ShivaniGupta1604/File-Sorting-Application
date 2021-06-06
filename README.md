@@ -16,6 +16,6 @@ Python libraries used:
 
 Advantages:
 
-Accessing and searching files become easier.
-Maintaining files is easy. 
+1. Accessing and searching files become easier.
+2. Maintaining files is easy. 
 
